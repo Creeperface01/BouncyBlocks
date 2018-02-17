@@ -1,0 +1,7 @@
+#jump power
+jump_power: 1.0
+
+blocks:
+- id: 26 #bed
+#- id: 35 #wool
+#  damage: 4 #block damage (wool color in this case)

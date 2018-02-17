@@ -1,0 +1,6 @@
+name: BouncyBlocks
+api: ["1.0.0"]
+main: gt.creeperface.bouncyblocks.BouncyBlocks
+version: 1.0
+author: CreeperFace
+description: Simple trampoline plugin
