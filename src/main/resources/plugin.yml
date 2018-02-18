@@ -4,3 +4,4 @@ main: gt.creeperface.bouncyblocks.BouncyBlocks
 version: 1.0
 author: CreeperFace
 description: Simple trampoline plugin
+depend: ["KotlinLib"]

@@ -47,7 +47,7 @@ class BouncyBlocks : PluginBase(), Listener {
     fun onMove(e: PlayerMoveEvent) {
         val p = e.player
 
-        if (!p.isOnGround) {
+        if (!p.isOnGround || p.isSneaking) {
             return
         }
 
